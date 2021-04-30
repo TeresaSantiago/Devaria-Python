@@ -90,10 +90,22 @@ celerybeat-schedule
 .env
 .venv
 env/
-venv/
+
 ENV/
 env.bak/
 venv.bak/
+venv/Scripts/pythonw.exe
+venv/Scripts/python.exe
+venv/Scripts/pip3.exe
+venv/Scripts/pip3.9.exe
+venv/Scripts/pip.exe
+venv/Scripts/activate
+venv/Scripts/activate.bat
+venv/Scripts/Activate.ps1
+venv/Scripts/deactivate.bat
+venv/pyvenv.cfg
+.idea/
+
 
 # Spyder project settings
 .spyderproject
